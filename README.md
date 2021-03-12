@@ -1,13 +1,13 @@
 # Interview preparation notes including questions and answers
 
-# Questions
+## Questions
 
 - Question 1: Tell me about yourself?
-- Question 1: What is Agile and benefit of implementing it?
-- Question 2: Why Sparta Global?
-- Question 3: What is Scrum and benefit of implementing it?
-- Question 4: Where do you see yourself in 2-5 years time?
-- Question 5: What is DevOps and the benefit of using it?
+- Question 2: What is Agile and benefit of implementing it?
+- Question 3: Why Sparta Global?
+- Question 4: What is Scrum and benefit of implementing it?
+- Question 5: Where do you see yourself in 2-5 years time?
+- Question 6: What is DevOps and the benefit of using it?
 
 ### Answers
 
