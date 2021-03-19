@@ -25,7 +25,7 @@
 
 ### SQL
 
-*** Q&A ***
+***Q&A***
 
 - Question 1: What is a JOIN function?
 A JOIN clause is used to combine rows from two or more tables, based on a related column between them. SQL JOIN two tables related by a single column primary key or foreign key. The different types of JOINs in SQL are:
