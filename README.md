@@ -51,3 +51,9 @@ Normalisation is the process of structuring a database, usually a relational dat
 
 - Question 5: What is Entity relationship diagram and benefit of using it?
 An entity relationship diagram (ERD) shows the relationship of entity sets stored in a database. Is a type of structural diagram for use in database design. It contains different symbols and connectors: the entities and the inter-relationships among these entities. To fully utilize ER Diagram in database engineering guarantees you to produce high-quality database design to use in database creation, management, and maintenance. An ER model also provides a means for communication.
+
+### What is Git and Git-hub and benefit for using it?
+
+- Git is a version control software, thinking about the efficiency, reliability and compatibility of the maintenance of versions of applications. The purpose is to keepp the track of changes in computer files including coordinating the work that various people do.
+- Git-hub is a online repository. It lets you and others work together on projects from anywhere. All is saved on a cloud. <br/><br/>
+Regarding the benefits, it makes it easy to contribute to your open source projects, it makes it easier to get excellent documentation, it is a repository that allows your work go get out there in front of the public and it can track changes in your code across versions.
