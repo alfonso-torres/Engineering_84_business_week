@@ -27,32 +27,32 @@
 
 ***Q&A***
 
-- Question 1: What is a JOIN function?
+- Question 1: What is a JOIN function?<br/>
 A JOIN clause is used to combine rows from two or more tables, based on a related column between them. SQL JOIN two tables related by a single column primary key or foreign key. The different types of JOINs in SQL are:
 1. INNER JOIN: returns records that have matching values in both tables.
 2. LEFT JOIN: returns all records from the left table, and the matched records from the right table.
 3. RIGHT JOIN: returns all records from the right table, and the matched records from the left table.
 4. FULL JOIN: returns all records when there is a match in either left or right table.
 
-- Question 2: What is a primary key and foreign key? What are their functions?
+- Question 2: What is a primary key and foreign key? What are their functions?<br/>
 The primary key is a specific choice of a minimal set of attributes (columns) or only one attribute that uniquely specify a tuple (row) in a relation (table). A primary key must be unique. The value must never change. Each table may have a maxium of one primary key. Must walways have an entry, can not be NULL. It can be simple or compound. Simple corresponds only one field.Or composite, that combines more than one field (column). 
 The foreign key is a field (or collection of fields) in one table, that refers to the primary key in another table. It is a referential limitation between tables. So they are used to create solid relationships. There is not uniqueness constraint for foreign keys. A table is allowed to contain more than one foreign key. Also, it is OK from them to contain NULL values.
 
-- Question 3: What is DML and DDL?
+- Question 3: What is DML and DDL?<br/>
 They are structured query language. Is a domain-specific language used in programming and designed for managing data held in a relational database management system.
 1. Data Manipulation Language (DML): used for adding, deleting and modifying data in database. -> SELECT, INSERT UPDATE and DELETE.
 2. Data Definition Language (DDL): used for creating and modifying database objects suchs as tables, indices and users. -> CREATE, ALTER, DROP and TRUNCATE.
 
-- Question 4: What is Normalisation?
+- Question 4: What is Normalisation?<br/>
 Normalisation is the process of structuring a database, usually a relational database, in accordance with a series of so-called normal forms in order to reduce data redundancy and improve data integrity. Types of normalization:
 1. First Normal Form (1NF): make everything atomic. There should be not repeating groups.
 2. Second Normal Form (2NF): Be in 1NF. All non-key attributes are fully functional dependent on the primary key. There should be no partial dependency.
 3. Third Normal Form (3NF): Be in 2NF. It does not have transitive dependency.
 
-- Question 5: What is Entity relationship diagram and benefit of using it?
+- Question 5: What is Entity relationship diagram and benefit of using it?<br/>
 An entity relationship diagram (ERD) shows the relationship of entity sets stored in a database. Is a type of structural diagram for use in database design. It contains different symbols and connectors: the entities and the inter-relationships among these entities. To fully utilize ER Diagram in database engineering guarantees you to produce high-quality database design to use in database creation, management, and maintenance. An ER model also provides a means for communication.
 
-### What is Git and Git-hub and benefit for using it?
+### What is Git and Git-hub and benefit of using it?
 
 - Git is a version control software, thinking about the efficiency, reliability and compatibility of the maintenance of versions of applications. The purpose is to keepp the track of changes in computer files including coordinating the work that various people do.
 - Git-hub is a online repository. It lets you and others work together on projects from anywhere. All is saved on a cloud. <br/><br/>
