@@ -23,7 +23,7 @@
 
 - Answer 6: DevOps is an acronym for development and operations, which refers to a software development methodology that focuses on communication, collaboration, and integration between software developers and IT professionals. The benefits of using it is that it involves multidisciplinary teams, continuos improvement is the core of this methodology and it is based on collaboration to get good results.
 
-### SQL
+## SQL
 
 ***Q&A***
 
@@ -52,8 +52,17 @@ Normalisation is the process of structuring a database, usually a relational dat
 - Question 5: What is Entity relationship diagram and benefit of using it?<br/>
 An entity relationship diagram (ERD) shows the relationship of entity sets stored in a database. Is a type of structural diagram for use in database design. It contains different symbols and connectors: the entities and the inter-relationships among these entities. To fully utilize ER Diagram in database engineering guarantees you to produce high-quality database design to use in database creation, management, and maintenance. An ER model also provides a means for communication.
 
-### What is Git and Git-hub and benefit of using it?
+## What is Git and Git-hub and benefit of using it?
 
 - Git is a version control software, thinking about the efficiency, reliability and compatibility of the maintenance of versions of applications. The purpose is to keepp the track of changes in computer files including coordinating the work that various people do.
 - Git-hub is a online repository. It lets you and others work together on projects from anywhere. All is saved on a cloud. <br/><br/>
 Regarding the benefits, it makes it easy to contribute to your open source projects, it makes it easier to get excellent documentation, it is a repository that allows your work go get out there in front of the public and it can track changes in your code across versions.
+
+## PYTHON
+
+***Q&A***
+
+- Question 1: What is Python and benefit of using it?<br/>
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive fo Application Development, as well as for use as a scripting or glue language to connect existing components together. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. So for that reason it supports multiple programming paradigms, including structured, Object-Oriented Programming (OOP) and functional programming. <br/>
+The benefit of using it, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance, it supports modules and packages, which encourages program modularity and code re-use. But for the reason that Python is object-oriented, it supports with thousands of libraries that you can use in your own work. Python has an enormous user community. <br/>
+Python is a great language for scripting, deployment automation, and web development. This makes it one of the most suitable langauges for DevOps currently. It is highly demanded. Python helps achieve the same through a wide array of libraries and packages, accesibility, and flexibility. So Pyython is a scripting language, and it can be used in many different ways for many different types oj jobs. DevOps and Python is one such rare combination that promises agility, giving us an edge over ours competitors. DevOps and Python makes things simpler and help to transform with the new technologies in the market rigth now.
