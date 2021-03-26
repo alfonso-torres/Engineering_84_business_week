@@ -86,3 +86,147 @@ The benefits of using API are:
 1. Better integration: you can integrate your applications with third parties in order to optimize their functionality and to improve usability.
 2. Automating tasks: Thanks to automation and integration of processes your business can save costs, time and efforts.
 3. Improved services: APIs simplify the implementation of new applications, business models and digital products and allow an effective complementation with third-party products or services whilst improving their development.
+
+- __Question 5: What are Python Packages and Modules? - Requests module use case with API__<br/>
+A Python package is a collection of modules, a simple directory of Python modules that contains differentes scripts. On the other hand, modules that are related to each other are mainly put in the same package. When a module from an external package is required in a program, that package can be imported and its modules can be put to use. So a package saves modules and this modules contains executables statements as well as function definitions that we will be able to use in any program.<br/>
+Let's see an example:
+````python
+import requests # Module request
+
+# API to ask the user what website they want to check its status
+website = input("Please enter the website you would like to check his status (INCLUDE the http//): ") 
+
+# Function to check if the website is working or not
+def status_code_check(name):
+    responses = requests.get(name)
+
+    if responses.status_code == 200:
+        return ("This website is up and running, status code is: " + str(responses.status_code))
+    else:
+        return ("OOPs something went wrong, status code is: " + str(responses.status_code))
+
+print(status_code_check(website))
+````
+- __Question 6: What is pip?__<br/>
+Pip is a package management system used to install and manage software packages written in Python. As we know a package contains all the files you need for a module. So this modules are Python code libraries that you can include in your project. <br/>
+To check if pip is installed, type the following command:
+````
+pip --version
+````
+To install PIP in the case do not have pip installed, you can download and install it from this [link](https://pypi.org/project/pip/)
+To download a package, we type the following commnad:
+````
+pip install name_package
+````
+To see the differents packages you can install and their documentations, use this [link](https://docs.python.org/3/library/)
+To list all the packages installed on your system:
+````
+pip list
+````
+- __Question 7: What are four pillars of OOP and why should we use them? - Use cases included__<br/>
+You can apply OOP in your code with classes and objects. All the objects
+you create will have states and functionality.<br/>
+There are four major benefits to OOP. There are four pillars:
+1. *Abstraction*:
+
+By using classes, you will be able to generalize your objects types, simplifying 
+  your program. So as a developer we will show only the essential features of the
+  application and hiding the details from the user. Let's see an example:
+````python
+class Animal():
+
+    def __init__(self): # self refers the current class
+        self.alive = True
+        self.spine = True
+
+    def eat(self):
+        return " keep eating to stay alive "
+        
+# Creating an object of our Animal class
+cat = Animal() # this will store all the data available in Animal class into cat
+print(cat.eat())  # eat() is Abstraction
+# THE USER DOESN'T NEED TO KNOW WHAT IS HAPPENING BEHIND
+````
+2. *Encapsulation*:
+
+In OOP, you bundle code into a single unit where you can determine the scope of 
+each piece of data. It means that is all about binding the data variables and 
+functions together in class. It helps us to make data private from the customer.
+Let's see an example:
+````python
+# Creating a Snake class
+class Snake(Reptile):
+
+    def __init__(self):
+        # Protected member
+        self.__fork_tongue = True
+
+# Creating an object of our Snake class
+snake_object = Snake()
+print(snake_object.__fork_tongue)
+# It will result in Attribute Error because we made the attribute __fork_tongue private
+# So we can see that it is encapsulated to the user
+````  
+3. *Inheritance*:
+
+A class can inherit attributes and behaviors from another class, so we will be able
+to reuse more code. The class which is inherited from, is called the base class, and the class 
+which inherits the code from the base class is called a Parent class. Let's see an example:
+````python
+# Creating an Animal class
+class Animal():
+
+    def __init__(self): # self refers the current class
+        self.alive = True
+
+    def breath(self):
+        return " keep breathing if you want to live"
+
+# Let's import Animal class
+
+from animal import Animal # this is to ensure Animal class is inherited
+class Reptile(Animal): # We need to pass the animal class as an arg in our Reptile class
+
+    def __init__(self):
+        super().__init__() # super is to make everything available from parent class
+        self.cold_blooded = True
+
+    def hunt(self):
+        return " working hard to catch the next meal "
+
+# Let's see amazing benefits of inheritance
+reptile_object = Reptile()
+# We can use the method "breath()" from the class Animal() because is inherited
+print(reptile_object.breath())
+
+````
+4. *Polymorphism*:
+
+One class can be used to create many objects, all from the same flexible piece of code.
+So you can inherit from parent class as well as override the data. It allows us to create
+attributes and methods with the same name which will perform differently. Let's see an example:
+````python
+# Creating an Snake class
+class Snake(Reptile):
+
+    def __init__(self):
+        self.venom = True
+
+# Let's import Snake class
+from snake import Snake # this is to ensure Snake class is inherited
+class Python(Snake): # We need to pass the Snake class as an arg in our Python class
+
+    def __init__(self):
+        super().__init__()
+
+        self.venom = False # Polymorphism
+
+# Creating an object of our Python class
+python_object = Python()
+print(python_object.venom)
+# It will print "False". We inherit the attribute "venom" from our Parent class.
+# But in the Python class we are overriden this attribute.
+# So the program will use the attribute from this class, not from Parent class.
+````
+
+The benefits of using the four pillars, apart form what we have seen previously, the code is more easier to read and understand since it is all grouped into objects. This code can be reusable and easiert to maintain. And finally testing is going to be more easier when we will be working with objects.
