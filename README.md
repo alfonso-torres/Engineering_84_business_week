@@ -113,12 +113,12 @@ To check if pip is installed, type the following command:
 ````
 pip --version
 ````
-To install PIP in the case do not have pip installed, you can download and install it from this [link](https://pypi.org/project/pip/)
+To install PIP in the case do not have pip installed, you can download and install it from this [link](https://pypi.org/project/pip/).<br/>
 To download a package, we type the following commnad:
 ````
 pip install name_package
 ````
-To see the differents packages you can install and their documentations, use this [link](https://docs.python.org/3/library/)
+To see the differents packages that you can install and their documentations, use this [link](https://docs.python.org/3/library/).<br/>
 To list all the packages installed on your system:
 ````
 pip list
