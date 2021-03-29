@@ -8,6 +8,10 @@
 - Question 4: What is Scrum and benefit of implementing it?
 - Question 5: Where do you see yourself in 2-5 years time?
 - Question 6: What is DevOps and the benefit of using it?
+- Question 7: What are the three roles of Scum?
+- Question 8: Tell me about the Five Scrum Events?
+- Question 9: What are the four values of Agile?
+- Question 10: What are the main artifacts of agile scrum?
 
 ### Answers
 
@@ -22,6 +26,26 @@
 - Answer 5: During my professional career I hope to learn enough knowledge and the necessary experiences to become an example as a DevOps Engineer. I want to be a consultant capable of solving any problem. I would like my role to develop through the path of DevOps Architect, to be abelt to carry out the design and implementation of business apliccations. I hope to achieve my goal by participating in great projects with good teams that help me improve.
 
 - Answer 6: DevOps is an acronym for development and operations, which refers to a software development methodology that focuses on communication, collaboration, and integration between software developers and IT professionals. The benefits of using it is that it involves multidisciplinary teams, continuos improvement is the core of this methodology and it is based on collaboration to get good results.
+
+- Answer 7:
+1. Scrum Master: The Scrum Master helps the product group learn and apply Scrum to achieve business value. The Scrum Master does whatever is in their power to help the Team, Product Owner and organization be successful. The Scrum Master is not the manager of the Team members, nor are they a project manager, team lead, or team representative. Instead, the Scrum Master serves the Team; he or she helps to remove impediments, protects the Team from outside interference, and helps the Team to adopt Agile development practices.
+2. Product Owner: The Product Owner is responsible for maximizing return on investment (ROI) by identifying product features, translating these into a prioritized list, deciding which should be at the top of the list for the next Sprint, and continually re-prioritizing and refining the list. The Product Owner has profit and loss responsibility for the product, assuming it is a commercial product. Product Owner in Agile is like a spokesperson for customer and needs to represent them.
+3. Development team: A Development Team is a collection of individuals working together to develop and deliver the requested and committed product increments. It comprises of cross-functional members who are capable of achieving the sprint goals. This could include software engineers, architects, programmers, analysts, system admins, QA experts, testers, UI designers, etc.
+
+- Answer 8: These five events are:
+1. Sprint Planning: This is the event that kick starts each Sprint and is where the Product Owner and Developers discuss which Product Backlog Items (PBI’s) will be included in Sprint
+2. Daily Scrum: Scrum seeks to efficiently use your time and resources and the Daily Scrum event is no exception. The Daily Scrum is timeboxed to 15 minutes. Standing up is not compulsory. However, many teams find this a useful technique to keep the event short and to the point.
+3. Sprint Review: A Sprint Review usually takes place on the last day of the Sprint and allows the Scrum Team the opportunity to show the Done Increment to stakeholders. As well as inspecting working features produced during the Sprint, you are also after useful feedback that can be incorporated the Product Backlog that may help guide the work for future sprints.
+4. Sprint Retrospective: The final event in the Sprint is the Sprint Retrospective. This is when the Scrum Team reviews what could be improved for future Sprints and how they should do it.
+5. The Sprint: The Sprint is an event in itself that contains all the work and all the other events that happen during the timeboxed period of development.
+
+- Answer 9: The Agile consists of four key values:
+1. Individuals and interactions over processes and tools: Having the right group of individuals on your software team is vital to success. Perhaps even more important is how these individuals communicate with each other. The interactions between team members are what helps them to collaborate and solve any problems that arise.
+2. Working software over comprehensive documentation: The Agile places shipping software to your customers as one of the highest priorities. And while documentation isn’t a bad thing, there comes a point when you should focus on providing your customers with working software.
+3. Customer collaboration over contract negotiation: According to the Agile, the focus should be on continuous development. You need to build a feedback loop with your customers so that you can constantly ensure that your product works for them. You would draw up contracts with your customers who would then detail the finished product.
+4. Responding to change over following a plan: That’s why the Agile suggests that a software team should have the ability to pivot and change direction whenever they need to, with a flexible roadmap that reflects that.
+
+- Answer 10: Agile scrum artifacts are information that a scrum team and stakeholders use to detail the product being developed, actions to produce it, and the actions performed during the project. These artifacts provide metadata points that give insight into the performance of a sprint. The main agile scrum artifacts are product backlog, sprint backlog, and increments. The product backlog is a list of new features, enhancements, bug fixes, tasks, or work requirements needed to build a product. The sprint backlog is a set of product backlog tasks that have been promoted to be developed during the next product increment. A product increment is the customer deliverables that were produced by completing product backlog tasks during a sprint. It also includes the increments of all previous sprints.
 
 ## SQL
 
@@ -56,7 +80,7 @@ An entity relationship diagram (ERD) shows the relationship of entity sets store
 
 - Git is a version control software, thinking about the efficiency, reliability and compatibility of the maintenance of versions of applications. The purpose is to keepp the track of changes in computer files including coordinating the work that various people do.
 - Git-hub is a online repository. It lets you and others work together on projects from anywhere. All is saved on a cloud. <br/><br/>
-Regarding the benefits, it makes it easy to contribute to your open source projects, it makes it easier to get excellent documentation, it is a repository that allows your work go get out there in front of the public and it can track changes in your code across versions.
+Regarding the benefits, it makes it easy to contribute to your open source projects, it makes it easier to get excellent documentation, it is a repository that allows your work go get out there in front of the public and it can track changes in your code across versions (Everything changed is tracked). It helps us to get back(recover) to any change becuase it is a TECHNICAL BACKUP CLOUD.
 
 ## PYTHON
 
@@ -69,7 +93,7 @@ Python is a great language for scripting, deployment automation, and web develop
 
 - __Question 2: What is OOP and why should we use it?__<br/>
 Object-Oriented programming (OOP) is a method of structuring a program by building related properties and behaviors into individual objects. Let's have a look at an initial example. Imagine that you have to describe a car to someone who's never seen one before. You may want to start telling that it's a wheeled motor vehicle used for transportation. Also you would like to mention that there are several brands of cars, or some aspects like it has four tires that they carry up to five people. So Computers have no natural thought of what a car is, why were they made or who employments them. And in the event that you need your computer to accurately get it the protest, a car in this case, you have got to clearly clarify which are its attributes and what functions they will do. For that reason Python uses a programming pattern called object-oriented programming, which models concepts using classes and objects. <br/>
-It is a flexible, powerful paradign where we can use classes which represent and denife concepts that we want to show to the customers. It makes complex code easier to develop, more relieable, more maintainable and it lets you change the implementation of an object without affecting any other code, so for that reason we should use it.
+It is a flexible, powerful paradign where we can use classes which represent and denife concepts that we want to show to the customers. It makes complex code easier to develop, more relieable, more maintainable and it lets you change the implementation of an object without affecting any other code, so for that reason we should use it.Also it helps us to follow the concept of DRY. The Don't Repeat Yourself (DRY) principle is a common principle across programming paradigms, but it is especially important in OOP. According to the principle: Every piece of knowledge or logic must have a single, unambiguous representation within a system. It could be a guideline of computer program improvement pointed at decreasing redundancy of computer program designs, supplanting it with reflections or utilizing information normalization to maintain a strategic distance from excess.
 
 - __Question 3: The benefits of OOP and best use cases?__<br/>
 It is exceptionally valuable for the reason that it permits you to bundle together information states and functionality to alter those information states, whereas keeping the subtle elements hidden away. As a result, code with OOP plan is adaptable, measured, and abstract. So this makes it especially valuable after you make bigger programs. <br/>
