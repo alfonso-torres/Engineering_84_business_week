@@ -82,6 +82,8 @@ An entity relationship diagram (ERD) shows the relationship of entity sets store
 - Git-hub is a online repository. It lets you and others work together on projects from anywhere. All is saved on a cloud. <br/><br/>
 Regarding the benefits, it makes it easy to contribute to your open source projects, it makes it easier to get excellent documentation, it is a repository that allows your work go get out there in front of the public and it can track changes in your code across versions (Everything changed is tracked). It helps us to get back(recover) to any change becuase it is a TECHNICAL BACKUP CLOUD.
 
+![GIT](https://github.com/alfonso-torres/Engineering_84_business_week/blob/main/GIT_Scheme.png)
+
 ## PYTHON
 
 ***Q&A***
@@ -110,6 +112,8 @@ The benefits of using API are:
 1. Better integration: you can integrate your applications with third parties in order to optimize their functionality and to improve usability.
 2. Automating tasks: Thanks to automation and integration of processes your business can save costs, time and efforts.
 3. Improved services: APIs simplify the implementation of new applications, business models and digital products and allow an effective complementation with third-party products or services whilst improving their development.
+
+![HTTP_API](https://github.com/alfonso-torres/Engineering_84_business_week/blob/main/API_HTTP.png)
 
 - __Question 5: What are Python Packages and Modules? - Requests module use case with API__<br/>
 A Python package is a collection of modules, a simple directory of Python modules that contains differentes scripts. On the other hand, modules that are related to each other are mainly put in the same package. When a module from an external package is required in a program, that package can be imported and its modules can be put to use. So a package saves modules and this modules contains executables statements as well as function definitions that we will be able to use in any program.<br/>
