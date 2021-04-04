@@ -258,3 +258,8 @@ print(python_object.venom)
 ````
 
 The benefits of using the four pillars, apart form what we have seen previously, the code is more easier to read and understand since it is all grouped into objects. This code can be reusable and easiert to maintain. And finally testing is going to be more easier when we will be working with objects.
+
+- __Question 8: What is CRUD?__<br/>
+- __Question 9: What is TTD and benefit of implementing it?__<br/>
+- __Question 10: What is PYODBC and benefit of implementing it?__<br/>
+- __Question 11: What is HTTP protocol and benefit of implementing it?__<br/>
