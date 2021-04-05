@@ -47,7 +47,7 @@
 
 - Answer 10: Agile scrum artifacts are information that a scrum team and stakeholders use to detail the product being developed, actions to produce it, and the actions performed during the project. These artifacts provide metadata points that give insight into the performance of a sprint. The main agile scrum artifacts are product backlog, sprint backlog, and increments. The product backlog is a list of new features, enhancements, bug fixes, tasks, or work requirements needed to build a product. The sprint backlog is a set of product backlog tasks that have been promoted to be developed during the next product increment. A product increment is the customer deliverables that were produced by completing product backlog tasks during a sprint. It also includes the increments of all previous sprints.
 
-## SQL
+## <u>SQL</u>
 
 ***Q&A***
 
@@ -76,7 +76,7 @@ Normalisation is the process of structuring a database, usually a relational dat
 - __Question 5: What is Entity relationship diagram and benefit of using it?__<br/>
 An entity relationship diagram (ERD) shows the relationship of entity sets stored in a database. Is a type of structural diagram for use in database design. It contains different symbols and connectors: the entities and the inter-relationships among these entities. To fully utilize ER Diagram in database engineering guarantees you to produce high-quality database design to use in database creation, management, and maintenance. An ER model also provides a means for communication.
 
-## What is Git and Git-hub and benefit of using it?
+## <u>What is Git and Git-hub and benefit of using it?</u>
 
 - Git is a version control software, thinking about the efficiency, reliability and compatibility of the maintenance of versions of applications. The purpose is to keepp the track of changes in computer files including coordinating the work that various people do.
 - Git-hub is a online repository. It lets you and others work together on projects from anywhere. All is saved on a cloud. <br/><br/>
@@ -84,7 +84,7 @@ Regarding the benefits, it makes it easy to contribute to your open source proje
 
 ![GIT](https://github.com/alfonso-torres/Engineering_84_business_week/blob/main/GIT_Scheme.png)
 
-## PYTHON
+## <u>PYTHON</u>
 
 ***Q&A***
 
@@ -265,7 +265,7 @@ CRUD is the acronym for "Create, Read, Update and Delete", which is used to refe
 - __Question 9: What is TTD and benefit of implementing it?__<br/>
 Test-driven development (TDD) is a software development process relying on software requirements being converted to test cases before software is fully developed. In simple terms, test cases for each functionality are created and tested first and if the test fails then the new code is written in order to pass the test and making code simple and bug-free. TDD is widely used and is the cheapest way to test code or implement test driven development. In Python we will use Pytest to implement TDD. </br>
 
-![HTTP_API](https://github.com/alfonso-torres/Engineering_84_business_week/blob/main/API_HTTP.png)
+![TDD_SCHEME](https://github.com/alfonso-torres/Engineering_84_business_week/blob/main/TDD.png)
 
 The benefits of implementing it are:
 1. A key benefit of test-driven development is that it makes the developer focus on requirements before writing code. This is in contrast with the usual practice, where unit tests are only written after code.
@@ -276,7 +276,7 @@ The benefits of implementing it are:
 - __Question 10: What is PYODBC and benefit of implementing it?__<br/>
 Pyodbc is an open source Python module that makes accessing ODBC databases simple. Using pyodbc, you can easily connect Python applications to data sources with an ODBC driver. We use PYODBC to establish a connection between Python and SQL. The PYODBC library will help us to connect to an AWS hosted database that is using SQL Server by Microsoft.
 
-![HTTP_API](https://github.com/alfonso-torres/Engineering_84_business_week/blob/main/API_HTTP.png)
+![PYODBC](https://github.com/alfonso-torres/Engineering_84_business_week/blob/main/Python_with_SQL.png)
 
 The benefits of implmeneting it are:
 1. Slightly less likely to contain memory allocation issues.
@@ -286,7 +286,7 @@ The benefits of implmeneting it are:
 HTTP is a client-server protocol which allows the fetching of resources, such as HTML documents. It is the foundation of any data exchange on the Web and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser. A complete document is reconstructed from the different sub-documents fetched, for instance text, layout description, images, videos, scripts, and more.
 Clients and servers communicate by exchanging individual messages (as opposed to a stream of data). The messages sent by the client, usually a Web browser, are called requests and the messages sent by the server as an answer are called responses.
 
-![HTTP_API](https://github.com/alfonso-torres/Engineering_84_business_week/blob/main/API_HTTP.png)
+![HTTP_PROTOCOL](https://github.com/alfonso-torres/Engineering_84_business_week/blob/main/HTTP.png)
 
 Benefits of implementing it are:
 1. Addressing: HTTP uses advanced scheme of addressing. It assigns IP address with recognizable names so that it can be identified easily in the World Wide Web.
