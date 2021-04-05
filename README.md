@@ -260,6 +260,49 @@ print(python_object.venom)
 The benefits of using the four pillars, apart form what we have seen previously, the code is more easier to read and understand since it is all grouped into objects. This code can be reusable and easiert to maintain. And finally testing is going to be more easier when we will be working with objects.
 
 - __Question 8: What is CRUD?__<br/>
+CRUD is the acronym for "Create, Read, Update and Delete", which is used to refer to the basic functions in databases or the persistence layer in a software. Basically, the CRUD Operations in Python is written in python programming language and MySQL database. For any application which is associated with a database, we perform some operations for inserting the record (C=Create), reading the records (R=Read), updating the existing record with new value (U=Update) or deleting the record from the database (D=Delete]). So, These four operations are essentials when talking about any application where we have to use a database. For that reason we will have a persistent database. In the context of storing data in a computer system, this means that the data survives after the process with which it was created has ended. In other words, for a data store to be considered persistent, it must write to non-volatile storage.
+
 - __Question 9: What is TTD and benefit of implementing it?__<br/>
+Test-driven development (TDD) is a software development process relying on software requirements being converted to test cases before software is fully developed. In simple terms, test cases for each functionality are created and tested first and if the test fails then the new code is written in order to pass the test and making code simple and bug-free. TDD is widely used and is the cheapest way to test code or implement test driven development. In Python we will use Pytest to implement TDD. </br>
+
+![HTTP_API](https://github.com/alfonso-torres/Engineering_84_business_week/blob/main/API_HTTP.png)
+
+The benefits of implementing it are:
+1. A key benefit of test-driven development is that it makes the developer focus on requirements before writing code. This is in contrast with the usual practice, where unit tests are only written after code.
+2. Using TDD you build up, over time, a suite of automated tests that you and any other developer can rerun at will.
+3. Better Designed, cleaner and more extensible code.
+4. Confidence to Refactor: If you refactor code, there can be possibilities of breaks in the code. So having a set of automated tests you can fix those breaks before release.
+5. TDD helps reduce the unexpected errors and the code becomes clearer and simple to understand.
 - __Question 10: What is PYODBC and benefit of implementing it?__<br/>
+Pyodbc is an open source Python module that makes accessing ODBC databases simple. Using pyodbc, you can easily connect Python applications to data sources with an ODBC driver. We use PYODBC to establish a connection between Python and SQL. The PYODBC library will help us to connect to an AWS hosted database that is using SQL Server by Microsoft.
+
+![HTTP_API](https://github.com/alfonso-torres/Engineering_84_business_week/blob/main/API_HTTP.png)
+
+The benefits of implmeneting it are:
+1. Slightly less likely to contain memory allocation issues.
+2. Simpler to maintain; a higher-level language means less lines of code.
+3. Making data persistent: Persistence is "the continuance of an effect after its cause is removed". In the context of storing data in a computer system, this means that the data survives after the process with which it was created has ended. In other words, for a data store to be considered persistent, it must write to non-volatile storage. Persistent data in the field of data processing denotes information that is infrequently accessed and not likely to be modified. It means that we will always have the data in the database available anywhere in the world and whenever we want it. And also we can apply CRUD ("Create, Read, Update and Delete"), which is used to refer to the basic functions in databases or the persistence layer in a software.
 - __Question 11: What is HTTP protocol and benefit of implementing it?__<br/>
+HTTP is a client-server protocol which allows the fetching of resources, such as HTML documents. It is the foundation of any data exchange on the Web and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser. A complete document is reconstructed from the different sub-documents fetched, for instance text, layout description, images, videos, scripts, and more.
+Clients and servers communicate by exchanging individual messages (as opposed to a stream of data). The messages sent by the client, usually a Web browser, are called requests and the messages sent by the server as an answer are called responses.
+
+![HTTP_API](https://github.com/alfonso-torres/Engineering_84_business_week/blob/main/API_HTTP.png)
+
+Benefits of implementing it are:
+1. Addressing: HTTP uses advanced scheme of addressing. It assigns IP address with recognizable names so that it can be identified easily in the World Wide Web.
+2. Security: In HTTP each files is downloaded from an independent connection and then gets closed.
+3. Flexibility: Whenever there are additional capabilities needed by an application, HTTP has the capability to download extensions or plugins and display the relevant data.
+
+- __Question 12: How we can use "Exception Handling" in Python?__<br/>
+When an error occurs, or exception as we call it, Python will normally stop and generate an error message. These exceptions can be handled using the `try` statement:
+````python
+try:
+  print(x)
+except:
+  print("Something went wrong")
+finally:
+  print("The 'try except' is finished")
+````
+1. The `try` block lets you test a block of code for errors.
+2. The `except` block lets you handle the error.
+3. The `finally` block lets you execute code, regardless of the result of the try- and except blocks.
