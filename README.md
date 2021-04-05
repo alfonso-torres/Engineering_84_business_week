@@ -293,7 +293,7 @@ Benefits of implementing it are:
 2. Security: In HTTP each files is downloaded from an independent connection and then gets closed.
 3. Flexibility: Whenever there are additional capabilities needed by an application, HTTP has the capability to download extensions or plugins and display the relevant data.
 
-- __Question 12: How we can use "Exception Handling" in Python?__<br/>
+- __Question 12: How can we use "Exception Handling" in Python?__<br/>
 When an error occurs, or exception as we call it, Python will normally stop and generate an error message. These exceptions can be handled using the `try` statement:
 ````python
 try:
