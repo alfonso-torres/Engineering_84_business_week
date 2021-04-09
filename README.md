@@ -306,3 +306,16 @@ finally:
 1. The `try` block lets you test a block of code for errors.
 2. The `except` block lets you handle the error.
 3. The `finally` block lets you execute code, regardless of the result of the try- and except blocks.
+
+## <u>DevOps Interview Questions</u>
+
+***Q&A***
+
+- __Question 1: What is DevOps?__<br/>
+
+DevOps is an acronym for development and operations, which refers to a software development methodology that focuses on communication, collaboration, and integration between software developers and IT professionals. The benefits of using it is that it involves multidisciplinary teams, continuos improvement is the core of this methodology and it is based on collaboration to get good results.
+
+- __Question 2: Why do you want become a DevOps Engineer/Consultant?__<br/>
+- __Question 3: Explain the role of a DevOps Eng/Consultant__<br/>
+- __Question 4: What is Cloud Computing and why should we use it?__<br/>
+- __Question 5: Explain how you implemented DRY - OOP - MVC - MVT - use STAR to answer this__<br/>
