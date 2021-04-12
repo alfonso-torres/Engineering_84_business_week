@@ -313,9 +313,27 @@ finally:
 
 - __Question 1: What is DevOps?__<br/>
 
-DevOps is an acronym for development and operations, which refers to a software development methodology that focuses on communication, collaboration, and integration between software developers and IT professionals. The benefits of using it is that it involves multidisciplinary teams, continuos improvement is the core of this methodology and it is based on collaboration to get good results.
+DevOps is an acronym for development and operations, which refers to a software development methodology that focuses on communication, collaboration, and integration between software developers and IT professionals, in order that they can build, test, and release software faster participating together in the entire service life-cycle. In simple terms, DevOps is a culture that bridges the gap between development and operation teams.
+The benefits of using it is that it involves multidisciplinary teams, continuos improvement is the core of this methodology and it is based on collaboration to get good results.
 
 - __Question 2: Why do you want become a DevOps Engineer/Consultant?__<br/>
+
+One of my greatest passions is to manufacture software faster, with higher quality, lower cost and a very high frequency of releases. Being able to control the quality of the process and the software product for the satisfaction of clients services. Making a true difference in the lives of my clients and their projects motivates me to strive for excellence in everything I do. In addition, in the last year of my degree, I had the opportunity to do an internship as a member of the devops department involved in projects related to process automation and infrastructure deployment. I helped the department explore options for reducing implementation failure and recovery time. I provided ideas that contributed to problem solving, managing my time and following work methodologies according to the scope of the project. I want to develop my technical and consultant skills to be able to be a problem solver.
+
+DevOps is prone to continuous developments and enhancements, making it an exciting time to join the profession, it is something that motivates me not to stop learning and because make a real business impact, one of the main drivers for DevOps Engineers is the opportunity to truly deliver tangible business outcomes within the role.
+
 - __Question 3: Explain the role of a DevOps Eng/Consultant__<br/>
+
+Building and setting up new development tools and infrastructure. Understanding the needs of stakeholders and conveying this to developers. Working on ways to automate and improve development and release processes. testing and examining code written by others and analysing results. Assist the Professional Services team to develop offerings including proven architectures, proofs of concept, and best practices for delivery. Utilize a variety of tools, techniques, and procedures to resolve problems. Assist and support team members in executing projects on time.
+
+DevOps is breaking down silos and bringing developers and operations closer together to work together, share responsibilities, deploy infrastructure as code and automate the deployment pipeline as much as possible, supported by strong seek practices. In turn, this will deliver faster time to market, improved team collaboration, continuous release cycles, automated and scalable environments, and most importantly increased quality due to automated testing throughout.
+
 - __Question 4: What is Cloud Computing and why should we use it?__<br/>
+
+Cloud computing is a term used to describe the use of hardware and software delivered via network (usually the Internet). The term comes from the use of cloud shaped symbol that represents abstraction of rather complex infrastructure that enables the work of software, hardware, computation and remote services. Cloud computing is based on the premise that the main computing takes place on a machine, often remote, that is not the one currently being used. Data collected during this process is stored and processed by remote servers (also called cloud servers). This means the device accessing the cloud doesn't need to work as hard. By hosting software, platforms, and databases remotely, the cloud servers free up the memory and computing power of individual computers. Users can securely access cloud services using credentials received from the cloud computing provider.
+
+By using cloud infrastructure, you don't have to spend huge amounts of money on purchasing and maintaing equipment. Cloud offers many advanced security features that guarantee that data is securely stored and handled. Cloud based solutions are ideal for businesses with growing or fluctuating bandwidth demands. If your business demands increase, you can easily increase your cloud capacity without having to invest in physical infrastructure (Scalability).
+
+(Cloud computing, also known as cloud services, cloud computing, computing cloud or simply "the cloud", is a paradigm that allows computing services to be offered through a network, which is usually the internet.)
+
 - __Question 5: Explain how you implemented DRY - OOP - MVC - MVT - use STAR to answer this__<br/>
