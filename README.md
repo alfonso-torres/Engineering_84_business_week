@@ -337,3 +337,71 @@ By using cloud infrastructure, you don't have to spend huge amounts of money on 
 (Cloud computing, also known as cloud services, cloud computing, computing cloud or simply "the cloud", is a paradigm that allows computing services to be offered through a network, which is usually the internet.)
 
 - __Question 5: Explain how you implemented DRY - OOP - MVC - MVT - use STAR to answer this__<br/>
+
+## <u>Tips for interview</u>
+
+- Be yourself, speak naturally. Don't try to remember everything you want to say. If you forgot something you want to mention, nothing happens, but always be yourself.
+
+- Try to see the scene: why are they asking me that? What do they want to know? -> They want to know what I have done, how I have done it, how I have handled it, did I enjoy doing that? What has the result been? -> Take more personal. In each answer try to say something that can describe you.
+
+Example:
+
+- RM meeting blocker
+
+- Organise with a document
+- Discussed issue with boss
+- Asked for advice
+- "Leave it with me"
+
+- Discussed grouping teams together
+- Outcome all moved to afternoon so teaching is in morning
+
+- Techniques:
+
+1. Although I have written answers to each question, don't try to remember everything because in the end it will be noticed that you are not being natural. Try to write small words that help you remember the answer, small points with which you can respond in a more natural way.
+
+2. Use the STAR Interview Response Method. Listen to the question and think of an event. S(situation): describe the event or situation that you were in. T(task): explain the task you had to complete. A(Action): describe the specific actions you took to complete the task. R(Result): close with the result of your efforts.
+
+As they're asking the question, think about how you will respond.
+Take a moment to think about your strategy and compose yourself.
+STAR:
+
+What is a Situation that fits the question?
+What was the Task you have to complete?
+What Action did you undertake to resolve that?
+What was the Result of that?
+
+- If we don't know the answer, what should I do?
+
+Some answer: I do not remembet that on the top of my mind. I will do research and will come back with you. I am not 100% certain of this.
+
+Always be honest, do not push yourself.
+
+- If you have no clue - listen to it, ask them to elaborate.
+- Still don't know - I'm not 100% certain on this, I can come back to you after some research.
+- You don't remember it all - Say what you did, but you can come back to it after some research.
+- Things you haven't covered - say what you will plan to cover and say you can get back once you have covered it.
+- Be honest - don't make up answers. You won't get anywhere and might get caught out on it.
+- If, for example, they ask us about our final project, and we are not happy about it, nothing happens, the important thing is to comment on how we have elaborated it, try to take it personally, that they see how you have faced the project, how you have organized it, If you have looked for information on your own, how you have solved the problems and what the result has been, it does not matter if you are proud of it or not, try to take it more personally, that with your answer they can know more about you.
+
+- Have enough sleep and rest and breaks.
+- Dont be tired or hungry or want to go to the loo.
+- Try to be as relaxed as possible.
+- Dress professionally to show you made an effort. Present yourself.
+- Ask yourself: how will you be perceived on the other side of the interview. \strive for passionate, professional, motivated.
+- Think positively.
+- Be in the right mindset.
+- Be comfortable in your attire, try it before buying it or before the interview.
+
+- HOW I AM GOING TO PERCEIVE IN THE OTHER SIDE. BE SURE. GET READY. SET YOURSELF. BE IN THE MIND SELF. ASK MY SELF HOW I AM GOING TO BE PERCEIVED ON THE OTHER SIDE. BE POSITIVE. MAKE SURE YOURSELF BECAUSE IF NOT, YOU WILL NOT BE CONFORMTABLE WITH YOURSELF AND YOU CAN NOT PASS.
+
+MOST IMPORTANT THING: BELIEVE IN YOURSELF. POSITIVE MINDING BEFORE THE INTERVIEW. BE SURE OF YOURSELF. THAT YOU ARE THE BEST CANDIDATE. THAT YOU ARE SURE YOU WILL PASS THE INTERVIEW.
+
+- Important skills:
+
+1. Analytic: critical thinker, researcher, strategic, optimise, implementer.
+2. Independent: accountability, courageous, disciplined, networker, self-starter.
+3. Determined: motivated, goal oriented, endurance, positivity, focused.
+4. Professional: communication, reliability, demeanour, appearance, poise.
+5. Studious: life-long learner, curious, cognitive agility, reflection, iterative growth.
+6. Imaginative: divergent thinker, creative, open minded, sharing ideas, value driven.
